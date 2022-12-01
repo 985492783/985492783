@@ -8,6 +8,8 @@
 
 #### My repo
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=985492783&repo=ThreadPool-Agent">
+<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=985492783&repo=ThreadPool-Agent&show_owner=true">
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=985492783&repo=nacos">
+<a href="https://github.com/985492783/ThreadPool-Agent">1
+<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=985492783&repo=nacos&show_owner=true"></img>
+</a>
